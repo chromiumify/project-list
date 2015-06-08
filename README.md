@@ -39,5 +39,3 @@ https://github.com/creationix/min-stream-chrome
 https://github.com/substack/node-browserify 
 
 http://sdether.github.io/josh.js/ 
-
-https://github.com/substack/node-browserify 

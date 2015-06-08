@@ -19,7 +19,12 @@ https://github.com/No9/chrome-http
 ## fs 
 https://github.com/No9/chrome-fs 
 
-## Also of interest
+
+## Sample Projects 
+
+https://github.com/perceptron8/chrome-http-server 
+
+## Also of Interest
 
 https://github.com/GoogleChrome/browserify-chrome 
 
@@ -32,8 +37,6 @@ https://github.com/creationix/firmata-chrome
 https://github.com/creationix/chrome-app-module-loader 
 
 https://github.com/creationix/min-stream-chrome 
-
-https://github.com/perceptron8/chrome-http-server 
 
 https://github.com/substack/node-browserify 
 

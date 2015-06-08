@@ -14,8 +14,6 @@ https://github.com/feross/chrome-dgram
 ## http
 https://github.com/jscissr/http-node
 
-https://github.com/No9/chrome-http 
-
 ## fs 
 https://github.com/No9/chrome-fs 
 

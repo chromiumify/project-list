@@ -14,6 +14,8 @@ https://github.com/feross/chrome-dgram
 ## http
 https://github.com/perceptron8/chrome-http-server 
 
+https://github.com/jscissr/http-node
+
 https://github.com/No9/chrome-http 
 
 ## fs 

@@ -25,6 +25,11 @@ https://github.com/GoogleChrome/browserify-chrome
 
 https://github.com/feross/chrome-portfinder 
 
+https://github.com/creationix/firmata-chrome 
+
+https://github.com/creationix/chrome-app-module-loader
+
+https://github.com/creationix/min-stream-chrome
 https://github.com/feross/webtorrent-chrome 
 
 

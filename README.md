@@ -24,6 +24,8 @@ https://github.com/perceptron8/chrome-http-server
 
 ## Also of Interest
 
+https://github.com/nolanlawson/pouchdb-chrome-app-hello-world
+
 https://github.com/GoogleChrome/browserify-chrome 
 
 https://github.com/feross/chrome-portfinder 

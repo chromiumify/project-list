@@ -41,3 +41,5 @@ https://github.com/creationix/min-stream-chrome
 https://github.com/substack/node-browserify 
 
 http://sdether.github.io/josh.js/ 
+
+https://medium.com/@bestander_nz/live-reloading-chrome-apps-2a58d804c496

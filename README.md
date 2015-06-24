@@ -24,22 +24,32 @@ https://github.com/perceptron8/chrome-http-server
 
 ## Also of Interest
 
+### Robots 
+https://github.com/garrows/johnny-five 
+https://github.com/creationix/firmata-chrome 
+https://www.npmjs.com/package/browser-serialport 
+
+### Database
 https://github.com/nolanlawson/pouchdb-chrome-app-hello-world
 
+https://github.com/maxogden/level.js
+
+### Tools
 https://github.com/GoogleChrome/browserify-chrome 
 
+https://medium.com/@bestander_nz/live-reloading-chrome-apps-2a58d804c496
+
+https://github.com/substack/node-browserify 
+
+### Libraries 
 https://github.com/feross/chrome-portfinder 
-
-https://github.com/feross/webtorrent-chrome 
-
-https://github.com/creationix/firmata-chrome 
 
 https://github.com/creationix/chrome-app-module-loader 
 
 https://github.com/creationix/min-stream-chrome 
 
-https://github.com/substack/node-browserify 
+### Apps
+https://github.com/feross/webtorrent-chrome 
 
 http://sdether.github.io/josh.js/ 
 
-https://medium.com/@bestander_nz/live-reloading-chrome-apps-2a58d804c496

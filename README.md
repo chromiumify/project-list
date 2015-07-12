@@ -19,6 +19,8 @@ https://github.com/No9/chrome-fs
 
 https://github.com/mmckegg/web-fs
 
+https://github.com/mafintosh/level-filesystem
+
 
 ## Sample Projects 
 

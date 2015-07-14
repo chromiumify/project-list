@@ -52,6 +52,8 @@ https://github.com/creationix/chrome-app-module-loader
 
 https://github.com/creationix/min-stream-chrome 
 
+https://github.com/Rise-Vision/chrome-app-tls-server
+
 ### Apps
 https://github.com/feross/webtorrent-chrome 
 
